@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Nikitiya29.github.io/Trempel-Games/sitemap.xml
